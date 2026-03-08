@@ -16,15 +16,9 @@ The main goal is to **generate captions from images** using a pre-trained model.
 2. **Install dependencies**
   pip install -r requirements.txt
 
-3. **Folder structure**
-  .
-  **├── data/
-  │   └── images/          # Sample images (500 for testing)
-  ├── models/
-  │   └── image_captioning_weights.h5  # Saved model weights
-  ├── notebook.ipynb       # Colab notebook with full pipeline
-  ├── README.md
-  └── requirements.txt**
+3. **Install model from this link and put in models folder**
+   https://drive.google.com/file/d/1UwTQ3fn9TNA2A2lNr0vBWyJOH2QwT_Og/view?usp=sharing
+
 
 ## Notes
 This project uses a small dataset (500 images) for fast testing.
