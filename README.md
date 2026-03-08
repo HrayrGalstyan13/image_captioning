@@ -18,13 +18,13 @@ The main goal is to **generate captions from images** using a pre-trained model.
 
 3. **Folder structure**
   .
-  ├── data/
+  **├── data/
   │   └── images/          # Sample images (500 for testing)
   ├── models/
   │   └── image_captioning_weights.h5  # Saved model weights
   ├── notebook.ipynb       # Colab notebook with full pipeline
   ├── README.md
-  └── requirements.txt
+  └── requirements.txt**
 
 ## Notes
 This project uses a small dataset (500 images) for fast testing.
