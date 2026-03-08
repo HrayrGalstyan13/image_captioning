@@ -10,7 +10,7 @@ The main goal is to **generate captions from images** using a pre-trained model.
 
 1. **Clone or download the repository**  
    ```bash
-   git clone https://github.com/HrayrGalstyan13/image_captioning/
+   git clone https://github.com/HrayrGalstyan13/image_captioning
    cd image-captioning
 
 2. **Install dependencies**
